@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "69b174d69c364b99c0fcf05c",
+    "username": "sahil",
+    "email": "sahil@gmail.com",
+    "password": "$2b$10$H7i1XgCgvrqtGz1VBM7l.eW/GP7iaGw2gR2cA53kX/BEBQCTBrvJ.",
+    "__v": 0
+  },
+  {
+    "_id": "69b176ee2232bfa350dd3aab",
+    "username": "sahil2",
+    "email": "sahil2@gmail.com",
+    "password": "$2b$10$Jn98uZ2ogl5OnW7RwJqpeOUIAvsYAAwhXxQSeq/10kydk/pCt1bmG",
+    "__v": 0
+  }
+]
